@@ -1,2 +1,15 @@
 # Graph-Algorithm-Visualizer
 This web app shows how the different graph algorithm find the path from a source to a destination
+![Screenshot (209)](https://user-images.githubusercontent.com/80450860/129439919-093cabe9-eb0a-4474-aa27-5d1f8577cc0e.png)
+![Screenshot (210)](https://user-images.githubusercontent.com/80450860/129440055-86dc2aed-b4c5-476e-91fd-1ab20960a992.png)
+![Screenshot (211)](https://user-images.githubusercontent.com/80450860/129440058-8c3df034-f4bf-4396-bb98-2c20bc286a92.png)
+![Screenshot (212)](https://user-images.githubusercontent.com/80450860/129440060-9297e72e-72df-4400-b473-b6e3a0857196.png)
+![Screenshot (213)](https://user-images.githubusercontent.com/80450860/129440063-5f71b8f1-a087-4fc8-8940-d987ca74f851.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/80450860/129440147-5d3e457a-b63b-4114-9768-288e9a6024e6.png)
+![Screenshot (215)](https://user-images.githubusercontent.com/80450860/129440152-658d41a0-5756-4750-a3dc-4f01a0b2ad5c.png)
+![Screenshot (216)](https://user-images.githubusercontent.com/80450860/129440155-c08df345-549f-486c-a7a1-d08acae29b0e.png)
+![Screenshot (217)](https://user-images.githubusercontent.com/80450860/129440158-bae11682-53df-48f9-96ee-0b9bf8c2e4fc.png)
+![Screenshot (218)](https://user-images.githubusercontent.com/80450860/129440160-02ac1bb5-f536-4923-a27b-98c5c7c75dad.png)
+![Screenshot (219)](https://user-images.githubusercontent.com/80450860/129440162-0ec8dbb9-bd28-4945-98a8-fdd36cd3e3e6.png)
+![Screenshot (220)](https://user-images.githubusercontent.com/80450860/129440166-40d1f089-8e20-489d-ac64-5877f2e1e30e.png)
+![Screenshot (221)](https://user-images.githubusercontent.com/80450860/129440167-0f2f039c-76d2-43da-b9ab-ff8ef2873376.png)
